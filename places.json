@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Ейфелева вежа",
+        "city": "Париж",
+        "description": "Це всесвітньо відома архітектурна споруда, розташована в Парижі, Франція. Вона була зведена у 1889 році за проєктом інженера Густава Ейфеля як тимчасова конструкція для Всесвітньої виставки, присвяченої сторіччю Французької революції. Спочатку Ейфелева вежа викликала суперечки серед парижан і митців, але з часом стала символом Парижа і однією з найвідоміших туристичних пам'яток у світі.",
+        "rating": 9.5,
+        "google": "https://www.google.com.ua/maps/place/%D0%AD%D0%B9%D1%84%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0+%D0%B1%D0%B0%D1%88%D0%BD%D1%8F/@48.8545484,2.3025957,13.35z/data=!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://avatars.dzeninfra.ru/get-zen_doc/8265783/pub_6429d027c583f65e1bd71590_6429d106b342d827d63aef21/scale_1200"
+    },
+    {
+        "name": "Биг-Бен",
+        "city": "Лондон",
+        "description": "це одна з найвідоміших визначних пам'яток Лондона і символ Великої Британії. Насправді, Біг-Бен — це назва величезного дзвона всередині годинникової вежі Вестмінстерського палацу (Британського парламенту). Однак ця назва часто використовується для всієї вежі.",
+        "rating": 8.5,
+        "google": "https://www.google.com.ua/maps/place/%D0%91%D0%B8%D0%B3-%D0%91%D0%B5%D0%BD/@51.5005487,-0.1219038,15.17z/data=!3m1!5s0x47d8e55e300273ad:0x64ade3f4995c75cd!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://pohcdn.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/big-ben_1.jpg"
+    },
+    {
+        "name": "Вулиця Хрещатик",
+        "city": "Київ",
+        "description": "Головна вулиця Києва, що є символом столиці України. Розташована в центральній частині міста, вона простягається від Європейської площі до Бессарабської площі, маючи довжину близько 1,2 км. Хрещатик відомий своєю величною архітектурою, яка поєднує історичні будівлі з радянськими архітектурними елементами.",
+        "rating": 8.3,
+        "google": "https://www.google.com.ua/maps/place/%D1%83%D0%BB.+%D0%9A%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA,+%D0%9A%D0%B8%D0%B5%D0%B2,+02000/@50.4477446,30.5194976,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4ce56b2456d3b:0xd062ae171b57e947!8m2!3d50.4477412!4d30.5220779!16zL20vMDlydmhu?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://cdn.tripzaza.com/ru/destinations/wp-content/uploads/2018/07/10-Khreshchatyk_Street-e1531959292458.jpg"
+    },
+    {
+        "name": "Київо-Печерска лавра",
+        "city": "Київ",
+        "description": "Легендарний історико-архітектурний об'єкт міста. Дата заснування — 1051 рік. Лавра славиться унікальними церквами, мальовничими вежами та загадковими печерами з останками святих. Щороку тисячі вірян планують поїздку сюди за божественним благословенням.",
+        "rating": 8.1,
+        "google": "https://www.google.com.ua/maps/place/%D0%9A%D0%B8%D0%B5%D0%B2%D0%BE-%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F+%D0%BB%D0%B0%D0%B2%D1%80%D0%B0/@50.4346408,30.5523903,17z/data=!3m1!4b1!4m6!3m5!1s0x40d4cfa04a0c8e5b:0x3b40a2bcbca08807!8m2!3d50.4346375!4d30.5572558!16zL20vMDJmZGtq?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://cdn.tripzaza.com/ru/destinations/wp-content/uploads/2018/06/1-Kiev_Pechersk_Lavra-e1529132625220.jpg"
+    },
+    {
+        "name": "Паризькі катакомби",
+        "city": "Париж",
+        "description": "підземна мережа тунелів і камер, розташована під столицею Франції, які використовувалися як місце зберігання людських останків. Ця унікальна підземна система була створена у XVIII столітті, коли влада Парижа прийняла рішення перенести рештки з переповнених кладовищ до старих каменярень, розташованих під містом.",
+        "rating": 7.7,
+        "google": "https://www.google.com.ua/maps/place/%D0%9A%D0%B0%D1%82%D0%B0%D0%BA%D0%BE%D0%BC%D0%B1%D1%8B+%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D0%B0/@48.833836,2.3298419,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671b6c1d0b675:0xc8d7f073e62eb4b3!8m2!3d48.8338325!4d2.3324222!16zL20vMGg1YmQ?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://www.mandria.ua/wp-content/uploads/2019/01/Catacombes-de-Paris-3.jpg"
+    },
+    {
+        "name": "Букінгемський палац",
+        "city": "Лондон",
+        "description": "Тауерський міст — це один з найвідоміших мостів Лондона, який з'єднує дві частини міста через річку Темзу. Міст був відкритий у 1894 році і є вражаючим прикладом вікторіанської архітектури.\nТауерський міст відомий своєю унікальною конструкцією: він складається з двох підйомних башт, з'єднаних пішохідними шляхами.",
+        "rating": 7.9,
+        "google": "https://www.google.com.ua/maps/place/%D0%91%D1%83%D0%BA%D0%B8%D0%BD%D0%B3%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86/@51.5013673,-0.1444703,17z/data=!3m2!4b1!5s0x487605276d38fb6b:0xe1c60228d7946675!4m6!3m5!1s0x48760520cd5b5eb5:0xa26abf514d902a7!8m2!3d51.501364!4d-0.14189!16zL20vMDE5OGc?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://london10.ru/wp-content/uploads/2013/07/ben-griffiths-2yyq542b7RI-unsplash-1.jpg"
+    },
+    {
+        "name": "Тріумфальна арка",
+        "city": "Париж",
+        "description": "це одна з найбільш відомих пам'яток Франції, розташована на площі Шарля де Голля (раніше площа Зірки), на західному кінці Єлисейських полів. Арка була зведена за наказом імператора Наполеона Бонапарта в 1806 році на честь перемог його армії. Її будівництво тривало понад 30 років і завершилося в 1836 році.",
+        "rating": 7.6,
+        "google": "https://www.google.com.ua/maps/place/%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%B0%D1%80%D0%BA%D0%B0/@48.8737952,2.2924472,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d!8m2!3d48.8737917!4d2.2950275!16zL20vMHp2Xw?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://fr.igotoworld.com/frontend/webcontent/websites/26/images/attractions/Arc-of-triomphe/672_800x600_arc-of-triomphe.jpg"
+    },
+    {
+        "name": "Андріївський узвіз",
+        "city": "Київ",
+        "description": "Це одна з найвідоміших та найстаріших вулиць Києва, яка з’єднує верхню частину міста (Старий Київ) з Подолом. Вулиця є популярним культурним, історичним і туристичним центром столиці України.\nАндріївський узвіз славиться своєю архітектурною спадщиною, тут знаходяться численні пам'ятки, серед яких найвідоміша — Андріївська церква, збудована у XVIII столітті за проєктом архітектора Бартоломео Растреллі.",
+        "rating": 7.4,
+        "google": "https://www.google.com.ua/maps/place/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BF%D1%83%D1%81%D0%BA,+%D0%9A%D0%B8%D0%B5%D0%B2,+02000/@50.4598417,30.5146497,16.83z/data=!4m6!3m5!1s0x40d4ce43ccf910f1:0x86e14f4b5b274396!8m2!3d50.4598069!4d30.5161398!16zL20vMGI4Y250?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://cdn.tripzaza.com/ru/destinations/wp-content/uploads/2018/06/6-Andriyivski_Uzviz-e1529134398494.jpg"
+    },
+    {
+        "name": "Тауерський міст",
+        "city": "Лондон",
+        "description": "Один з найвідоміших мостів Лондона, який з'єднує дві частини міста через річку Темзу. Міст був відкритий у 1894 році і є вражаючим прикладом вікторіанської архітектури.\nТауерський міст відомий своєю унікальною конструкцією: він складається з двох підйомних башт, з'єднаних пішохідними шляхами.",
+        "rating": 7.1,
+        "google": "https://www.google.com.ua/maps/place/%D0%A2%D0%B0%D1%83%D1%8D%D1%80%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82/@51.5054597,-0.0779368,17z/data=!3m2!4b1!5s0x487603461c01f6e7:0x399d0f3fbe9f54f5!4m6!3m5!1s0x487603438b65db49:0x9e78421a085a6f2d!8m2!3d51.5054564!4d-0.0753565!16zL20vMGdncDQ?hl=ru&entry=ttu&g_ep=EgoyMDI0MDkyMi4wIKXMDSoASAFQAw%3D%3D",
+        "poster": "https://pohcdn.com/guide/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-12/tower-bridge-2.jpg"
+    }
+]
